@@ -1,5 +1,7 @@
 ﻿
-
+---
+title: Document Center
+---
 
 # Getting Started
 
